@@ -1,3 +1,7 @@
+# limpa tela
+import os
+os.system('cls || clear') or None
+
 # variáveis e input
 nota1 = float(input('Insira a primeira nota: '))
 nota2 = float(input('Insira a segunda nota: '))

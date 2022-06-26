@@ -1,3 +1,7 @@
+# limpa tela
+import os
+os.system('cls || clear') or None
+
 # input
 valorDepostio = float(input('Informe o valor do depósito: '))
 valorTaxaJuros = float(input('Informe o valor da taxa de juros: '))

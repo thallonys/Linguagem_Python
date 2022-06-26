@@ -1,3 +1,7 @@
+# limpa tela
+import os
+os.system('cls || clear') or None
+
 # input
 altura = float(input('Informe o valor da altura do triângulo: '))
 base = float(input('Informe o valor da base do triângulo: '))

@@ -1,3 +1,7 @@
+# limpa tela
+import os
+os.system('cls || clear') or None
+
 # input
 salarioBase = float(input('Informe o valor do salário: '))
 

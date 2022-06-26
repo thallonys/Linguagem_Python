@@ -1,3 +1,7 @@
+# limpa tela
+import os
+os.system('cls || clear') or None
+
 # variáveis e input
 nota1 = float(input('Insira a primeira nota: '))
 peso1 = float(input('Insira seu respectivo peso: '))

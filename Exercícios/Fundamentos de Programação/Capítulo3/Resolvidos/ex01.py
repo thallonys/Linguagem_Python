@@ -1,3 +1,7 @@
+# limpa tela
+import os
+os.system('cls || clear') or None
+
 # input
 n1 = int(input('Informe o primeiro número: '))
 n2 = int(input('Informe o segundo número: '))

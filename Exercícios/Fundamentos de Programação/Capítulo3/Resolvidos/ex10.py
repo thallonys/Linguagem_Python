@@ -1,3 +1,7 @@
+# limpa tela
+import os
+os.system('cls || clear') or None
+
 # input
 raio = float(input('Informe o valor do raio do círculo: '))
 
