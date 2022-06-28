@@ -2,7 +2,7 @@
 import os
 os.system('cls || clear') or None
 
-#input
+# input
 print('Informe três números em ordem crescente. Depois, informe um quarto qualquer.')
 numero1 = float(input('O primeiro: '))
 numero2 = float(input('O segundo: '))
