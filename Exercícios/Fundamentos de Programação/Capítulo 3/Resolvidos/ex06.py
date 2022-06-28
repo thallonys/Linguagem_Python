@@ -11,4 +11,4 @@ imposto = 7 / 100
 salarioReceber = gratificacao * salarioBase + salarioBase - imposto * salarioBase
 
 # output
-print('O salario a receber é de R$', salarioReceber)
+print('O salario a receber é de R$', salarioReceber, end='.')

@@ -10,4 +10,4 @@ aumento = 25 / 100
 novoSalario = aumento * salario + salario
 
 # output
-print('O valor do novo salário é', novoSalario)
+print('O valor do novo salário é', novoSalario, end='.')

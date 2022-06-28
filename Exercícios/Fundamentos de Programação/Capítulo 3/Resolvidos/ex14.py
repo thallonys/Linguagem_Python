@@ -12,5 +12,5 @@ anoFuturo = 2050
 idadeFutura = anoFuturo - anoNascimento
 
 # output
-print('Sua idade é', idade)
-print('Sua idade em', anoFuturo, 'é', idadeFutura)
+print('Sua idade é', idade, end='.\n')
+print('Sua idade em', anoFuturo, 'é', idadeFutura, end='.')

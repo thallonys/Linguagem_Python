@@ -12,5 +12,5 @@ valorRendimento = valorTaxaJuros * valorDepostio
 valorTotal = valorRendimento + valorDepostio
 
 # output
-print('O valor do rendimento é de R$', valorRendimento)
-print('O valor total é de R$', valorTotal)
+print('O valor do rendimento é de R$', valorRendimento, end='.\n')
+print('O valor total é de R$', valorTotal, end='.')

@@ -11,5 +11,5 @@ nota3 = float(input('Insira a terceira nota: '))
 media = (nota1 + nota2 + nota3) / 3
 
 # output
-print('A média é', media)
+print('A média é', media, end='.')
 

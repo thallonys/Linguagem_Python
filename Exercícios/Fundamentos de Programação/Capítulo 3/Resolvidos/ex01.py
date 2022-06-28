@@ -12,4 +12,4 @@ n4 = int(input('Informe o quarto número: '))
 soma = n1 + n2 + n3 + n4
 
 # output
-print('O valor da soma e', soma)
+print('O valor da soma e', soma, end='.')

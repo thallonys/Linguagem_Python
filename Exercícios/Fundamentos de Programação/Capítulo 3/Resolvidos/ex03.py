@@ -16,4 +16,4 @@ peso3 = float(input('Insira seu respectivo peso: '))
 media = (nota1 * peso1 + nota2 * peso2 + nota3 * peso3) / (peso1 + peso2 + peso3)
 
 # output
-print('A média ponderada é', media)
+print('A média ponderada é', media, end='.')

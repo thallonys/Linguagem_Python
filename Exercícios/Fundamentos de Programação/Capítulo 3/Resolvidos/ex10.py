@@ -10,4 +10,4 @@ pi = 3.14
 areaCirculo = pi * raio * raio
 
 # output
-print('O valor da área do círculo é de', areaCirculo)
+print('O valor da área do círculo é de', areaCirculo, end='.')

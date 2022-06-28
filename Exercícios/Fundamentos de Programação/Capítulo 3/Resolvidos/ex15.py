@@ -13,6 +13,6 @@ valorImpsoto = percentualImposto / 100 * precoFabrica
 precoFinal = precoFabrica + valorDistribuidor + valorImpsoto
 
 # output
-print('O valor do distrituido é de R$', valorDistribuidor)
-print('O valor do imposto é de R$', valorImpsoto)
-print('O preço final do carro é de R$', precoFinal)
+print('O valor do distrituido é de R$', valorDistribuidor, end='.\n')
+print('O valor do imposto é de R$', valorImpsoto, end='.\n')
+print('O preço final do carro é de R$', precoFinal, end='.')

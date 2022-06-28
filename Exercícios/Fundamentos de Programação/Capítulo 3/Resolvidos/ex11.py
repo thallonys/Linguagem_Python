@@ -12,7 +12,7 @@ raizQuadrada = numero ** (1/2)
 raizCubica = numero ** (1/3)
 
 # output
-print('O valor do número ao quadrado é', quadrado)
-print('O valor do número ao cubo é', cubo)
-print('O valor da raiz quadrada do número é', raizQuadrada)
-print('O valor da raiz cubida do número é', raizCubica)
+print('O valor do número ao quadrado é', quadrado, end='.\n')
+print('O valor do número ao cubo é', cubo, end='.\n')
+print('O valor da raiz quadrada do número é', raizQuadrada, end='.\n')
+print('O valor da raiz cubida do número é', raizCubica, end='.')

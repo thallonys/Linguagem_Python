@@ -11,7 +11,7 @@ jardas = 3 * valorPes
 milhas = 1760 * jardas
 
 # output
-print('O valor em polegadas é', polegadas)
-print('O valor em jardas é', jardas)
-print('O valor em milhas é', milhas)
+print('O valor em polegadas é', polegadas, end='.\n')
+print('O valor em jardas é', jardas, end='.\n')
+print('O valor em milhas é', milhas, end='.')
 

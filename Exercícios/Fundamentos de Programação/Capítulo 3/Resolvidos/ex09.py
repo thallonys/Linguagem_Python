@@ -10,4 +10,4 @@ base = float(input('Informe o valor da base do triângulo: '))
 areaTriangulo = base * altura / 2
 
 # output
-print('O valor da área do triângulo é de', areaTriangulo)
+print('O valor da área do triângulo é de', areaTriangulo, end='.')
