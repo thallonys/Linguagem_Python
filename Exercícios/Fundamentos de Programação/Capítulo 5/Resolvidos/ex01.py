@@ -16,7 +16,5 @@ while(anoAtual != 2022):
     count += 1
     salario = (aumento / 100) * salarioInicial + salarioInicial
     aumento *= 2
-    print(f'O valor do salário em {anoAtual} é de {salario}.') 
 
-
-
+print(f'O valor do salário em {anoAtual} é de {salario}.')
