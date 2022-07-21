@@ -8,6 +8,7 @@ def diferenciar(valorAntigo, valorAtual):
     # cálculo
     aumento_percentual = (valorAtual - valorAntigo) / valorAntigo * 100
     
+    # retornar
     return aumento_percentual
 
 # input

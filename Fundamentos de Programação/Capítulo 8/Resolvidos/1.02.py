@@ -4,7 +4,7 @@ os.system('cls || clear') or None
 
 # função
 def soma_entre_valores(x, y):
-    """Soma valores entre x até y"""
+    """Soma valores entre x e y"""
     # variável
     s = 0
 

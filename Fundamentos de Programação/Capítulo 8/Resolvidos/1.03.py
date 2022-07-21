@@ -18,6 +18,7 @@ def soma(a, b, c):
     else:
         print('O valor de \'a\' deve ser maior do que 1.')
     
+    # retornar
     return s
 
 # input
